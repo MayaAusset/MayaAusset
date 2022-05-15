@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-My name is Maya, I'm a Web-Developer
+I am Maya, a web developer capable of managing projects to develop and test both front end and back end interfaces, primarily in React and Node.js. 
+Familiar with Agile methodology, version control, and software development life cycle (SDLC).
+Stack :
+JavaScript | React.js | Next.js | Express.js | Node.js | PostgreSQL | Styled-Components | Git | GitHub | HTML | CSS 
+MongoDB | Axios
 
  🔭 I’m currently working on ...
 
  👅 The languages I use most oftens are
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaAusset&layout=compact)](https://github.com/MayaAusset/github-readme-stats)
 <!--
 **MayaAusset/MayaAusset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
