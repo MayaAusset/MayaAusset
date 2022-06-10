@@ -8,7 +8,7 @@ JavaScript | React.js | Next.js | Express.js | Node.js | PostgreSQL | Styled-Com
 MongoDB | Axios
 
 
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on a website-portfolio for an Artist!
 
  👅 The languages I use most oftens are
  
